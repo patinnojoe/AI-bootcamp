@@ -1,0 +1,1 @@
+print("This is just a simple text of outputting strings")
