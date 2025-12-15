@@ -1,0 +1,5825 @@
+[
+  {
+    "study name":"okwakpam et al.2024",
+    "site":"Sp1",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.07,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":1.89,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.03,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":8.08,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":61.94,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Sp2",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.02,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.32,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.08,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":1.02,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":78.84,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Sp3",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":2.69,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.88,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":1.26,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":36.86,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Sp4",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.38,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":2.8,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.003,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":1.15,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":86.54,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Sp5",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.49,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":1.34,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.05,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":4.69,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":44.64,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":9.754,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.144,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.167,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.0048,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":9.517,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.125,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.25,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.0048,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":10.05,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.083,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.2,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.0045,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Eferegbo et al.2025",
+    "site":"ST-01",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.054,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":"BDL",
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":"BDL",
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.032,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.044,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"ST-02",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.544,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":"BDL",
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":"BDL",
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.031,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.42,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"ST-03",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":1.079,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.003,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":"BDL",
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.168,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.092,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"ST-04",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.159,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.003,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":"BDL",
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.031,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.064,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"ST-05",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.152,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.002,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":"BDL",
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.56,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.025,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Ogeleka et al. 2016",
+    "site":"Odidi River",
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":500.0,
+    "value of contaminant":97592,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.18,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.33,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.04,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.001,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":500.0,
+    "value of contaminant":91590,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.19,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.34,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.04,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.001,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Onwueme, E.I. 2024",
+    "site":"Station 1",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"DO",
+    "DPR intervention value":500.0,
+    "value of contaminant":2,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":500.0,
+    "value of contaminant":272.33,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"PAH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.4,
+    "value of contaminant":0.3,
+    "target value":1.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.087,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.811,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.088,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.384,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Station 2",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"DO",
+    "DPR intervention value":500.0,
+    "value of contaminant":3.4,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":500.0,
+    "value of contaminant":178.52,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"PAH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.4,
+    "value of contaminant":2.79,
+    "target value":1.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.068,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.679,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.096,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.417,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Station 3",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"DO",
+    "DPR intervention value":500.0,
+    "value of contaminant":1.8,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":500.0,
+    "value of contaminant":334.27,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"PAH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.4,
+    "value of contaminant":0.86,
+    "target value":1.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.031,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.541,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.052,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.287,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Station 4",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"DO",
+    "DPR intervention value":500.0,
+    "value of contaminant":2.1,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":500.0,
+    "value of contaminant":287.9,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"PAH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.4,
+    "value of contaminant":0.61,
+    "target value":1.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.05,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.541,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.045,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.352,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Station 5",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"DO",
+    "DPR intervention value":500.0,
+    "value of contaminant":2.4,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"TPH ",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":500.0,
+    "value of contaminant":275.64,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"PAH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.4,
+    "value of contaminant":0.3,
+    "target value":1.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.031,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.541,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.031,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.254,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Davis et al. 2023",
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.27,
+    "value of contaminant":11.67,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":1.15,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":297.46,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.08,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Chris et al. 2023",
+    "site":"Station 1",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.05,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.06,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":8.29,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":0.001,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":136.35,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Station 2",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.05,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.074,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":9.84,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":0,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":147.35,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Station 3",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.05,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.094,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":14.5,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":0.001,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":160.05,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Chris D.I. et al.2025",
+    "site":"Station 1",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.78,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.24,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Co",
+    "DPR intervention value":55.2,
+    "value of contaminant":0.73,
+    "target value":20.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.17,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.29,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.72,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":0.002,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"station 2",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.79,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.23,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Co",
+    "DPR intervention value":55.2,
+    "value of contaminant":0.71,
+    "target value":20.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.16,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.31,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.8,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":0.002,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"station 3",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.74,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.28,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Co",
+    "DPR intervention value":55.2,
+    "value of contaminant":0.73,
+    "target value":20.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.18,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.29,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.83,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":0.002,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Co",
+    "DPR intervention value":55.2,
+    "value of contaminant":0.6,
+    "target value":20.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":1.2,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":9.6,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":4.8,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.008,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":1,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":4.9,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Co",
+    "DPR intervention value":55.2,
+    "value of contaminant":0.9,
+    "target value":20.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":1.4,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":8.8,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":5.3,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":-0.04,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.9,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":5.3,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Co",
+    "DPR intervention value":55.2,
+    "value of contaminant":0.2,
+    "target value":20.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.6,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":12,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":22,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.054,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":1.4,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":5.6,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Ayafa et al.2024",
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.76,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.3,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.99,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.62,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":1.11,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.84,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"felagha et al.2025",
+    "site":"C",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr ",
+    "DPR intervention value":191.9,
+    "value of contaminant":60,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.5,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":25,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":15,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":30,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":80,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"T",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr ",
+    "DPR intervention value":191.9,
+    "value of contaminant":2,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":30,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":5,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":10,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":5,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":1,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"jeffery et al. 2025",
+    "site":"mud crab",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":2.92,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":5.9,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Hg",
+    "DPR intervention value":7.25,
+    "value of contaminant":0.001,
+    "target value":0.3
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":1.09,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.32,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.001,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":1.21,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"shrimp",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":2.72,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":6.78,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Hg",
+    "DPR intervention value":7.25,
+    "value of contaminant":0.001,
+    "target value":0.3
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":1.15,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.22,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.001,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":1.24,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Bonga fish",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":2.21,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":6.5,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Hg",
+    "DPR intervention value":7.25,
+    "value of contaminant":0.001,
+    "target value":0.3
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":1.23,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.18,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.001,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":1.17,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"catfish",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":2.9,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":6.21,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Hg",
+    "DPR intervention value":7.25,
+    "value of contaminant":0.001,
+    "target value":0.3
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":1.21,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.41,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.001,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":1.13,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Nnawugwu et al.2023",
+    "site":"Mmahu",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":11.01,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":7.09,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":2.82,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":14.25,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":2.02,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Abaezi",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":7.34,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":5.87,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":4.71,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":16.66,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":1.25,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Abacheke",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":7.38,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":3.98,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":3.37,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":15.51,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.53,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Assa",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":5.51,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":6.51,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":3.63,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":17.83,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":1.01,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Awarra",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":12.88,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":4.93,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":3.09,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":15.1,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":1.86,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Obitti",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":3.69,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":5.28,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":2.08,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":13.96,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.69,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Umuagwo",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":9.22,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":7.04,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":5.2,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":18.62,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.8,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Karikpo et al.2025",
+    "site":"Station 1",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.49,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":2.33,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":1.9,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Station 2",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.16,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":2.33,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":2,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Station 3",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":3.01,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":2.35,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":2,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Station 4",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":3,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":2.29,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":2.05,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Station 5",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":3.16,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":2.31,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":1.94,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Station 6",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":3.06,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":2.38,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":1.92,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Badomet al.2024",
+    "site":"A",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.47,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.17,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":10.22,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"B",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.73,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.04,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":6.51,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"C",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":1.06,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.07,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":5.95,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"D",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.69,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.11,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":4.81,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Olenwo et al.2024",
+    "site":"Top soil",
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":500.0,
+    "value of contaminant":36.21,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"PAH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.4,
+    "value of contaminant":18.498,
+    "target value":1.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.1002,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.669,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":2.306,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":1.899,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":1.172,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Sub soil",
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":500.0,
+    "value of contaminant":58.835,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"PAH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.4,
+    "value of contaminant":19.935,
+    "target value":1.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.1692,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.9974,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":4.909,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":4.9654,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":3.2038,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Nangadighi et al.2024",
+    "site":"Odimodi",
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":500.0,
+    "value of contaminant":18.46,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.12,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.04,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.06,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Buruti",
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":500.0,
+    "value of contaminant":22.31,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.18,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.06,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.07,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Obatebe",
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":500.0,
+    "value of contaminant":16.89,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.1,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.03,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.05,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Ayakoromo",
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":500.0,
+    "value of contaminant":19.77,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.14,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.05,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.06,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Gbekebor",
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":500.0,
+    "value of contaminant":24.65,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.2,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.07,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.08,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Barango et al.2024",
+    "site":"SP1",
+    "contaminant of concern (organic)":"THC",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":20.0,
+    "value of contaminant":912.45,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":20.0,
+    "value of contaminant":114.43,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"sp2",
+    "contaminant of concern (organic)":"THC",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":20.0,
+    "value of contaminant":1365.63,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":20.0,
+    "value of contaminant":209.04,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"SP3",
+    "contaminant of concern (organic)":"THC",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":20.0,
+    "value of contaminant":1279.84,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":20.0,
+    "value of contaminant":158.14,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"SP4",
+    "contaminant of concern (organic)":"THC",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":20.0,
+    "value of contaminant":1010.24,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"TPH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":20.0,
+    "value of contaminant":126.55,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Chinedu et al.2024",
+    "site":"sediment",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"point 1",
+    "contaminant of concern (organic)":"PAH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.4,
+    "value of contaminant":0.04026,
+    "target value":1.0
+  },
+  {
+    "study name":null,
+    "site":"point 2",
+    "contaminant of concern (organic)":"PAH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.4,
+    "value of contaminant":0.01673,
+    "target value":1.0
+  },
+  {
+    "study name":null,
+    "site":"point 3",
+    "contaminant of concern (organic)":"PAH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.4,
+    "value of contaminant":0.02452,
+    "target value":1.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"surface water",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Point 1",
+    "contaminant of concern (organic)":"PAH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.4,
+    "value of contaminant":0.02086,
+    "target value":1.0
+  },
+  {
+    "study name":null,
+    "site":"point 2",
+    "contaminant of concern (organic)":"PAH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.4,
+    "value of contaminant":0.01171,
+    "target value":1.0
+  },
+  {
+    "study name":null,
+    "site":"point 3",
+    "contaminant of concern (organic)":"PAH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.4,
+    "value of contaminant":0.00477,
+    "target value":1.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Microbenthic fauna",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"periwinkle",
+    "contaminant of concern (organic)":"PAH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.4,
+    "value of contaminant":0.02382,
+    "target value":1.0
+  },
+  {
+    "study name":null,
+    "site":"Hermit crab",
+    "contaminant of concern (organic)":"PAH",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.4,
+    "value of contaminant":0.0471,
+    "target value":1.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Chris kallem et al.2025",
+    "site":"ST 1",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"DO",
+    "DPR intervention value":500.0,
+    "value of contaminant":6.02,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.78,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.24,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Co",
+    "DPR intervention value":55.2,
+    "value of contaminant":0.73,
+    "target value":20.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.17,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.29,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.72,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":0.002,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"ST 2",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"DO",
+    "DPR intervention value":500.0,
+    "value of contaminant":6.89,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.79,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.23,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Co",
+    "DPR intervention value":55.2,
+    "value of contaminant":0.71,
+    "target value":20.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.16,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.31,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.8,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":0.002,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"ST 3",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"DO",
+    "DPR intervention value":500.0,
+    "value of contaminant":5.98,
+    "target value":50.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.74,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.28,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Co",
+    "DPR intervention value":55.2,
+    "value of contaminant":0.73,
+    "target value":20.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.18,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.29,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.83,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":0.002,
+    "target value":29.0
+  },
+  {
+    "study name":"Dimkpa C. A. et al.2024",
+    "site":"surface water",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"SITE A",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":3.34,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":3.518,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":4.996,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":4.882,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":6.02,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":8.149,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":3.908,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Co",
+    "DPR intervention value":55.2,
+    "value of contaminant":5.274,
+    "target value":20.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"BTEX",
+    "contaminant of concern (organic)":"Benzene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.01,
+    "value of contaminant":null,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"Toluene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":1.3,
+    "value of contaminant":1.72,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"O-xylene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.25,
+    "value of contaminant":1.43,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"M-xylene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.25,
+    "value of contaminant":0.8,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"P-xylene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.25,
+    "value of contaminant":null,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"Ethylbenzene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.5,
+    "value of contaminant":null,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"SITE B",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.43,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.691,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.28,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":0.81,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.4,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.62,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.3,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Co",
+    "DPR intervention value":55.2,
+    "value of contaminant":1.72,
+    "target value":20.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"Benzene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.01,
+    "value of contaminant":0.3,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"Toluene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":1.3,
+    "value of contaminant":1.8,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"O-xylene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.25,
+    "value of contaminant":1.27,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"M-xylene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.25,
+    "value of contaminant":null,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"P-xylene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.25,
+    "value of contaminant":null,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"Ethylbenzene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.5,
+    "value of contaminant":0.4,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"SEDIMENT",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":6.274,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":"SITE A",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":5.53,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":6.821,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":8.55,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":9.306,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":9.894,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":7.213,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Co",
+    "DPR intervention value":55.2,
+    "value of contaminant":7.137,
+    "target value":20.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"Benzene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.01,
+    "value of contaminant":2.55,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"Toluene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":1.3,
+    "value of contaminant":null,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"O-xylene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.25,
+    "value of contaminant":1.94,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"M-xylene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.25,
+    "value of contaminant":3.15,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"P-xylene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.25,
+    "value of contaminant":1.55,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"Ethylbenzene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.5,
+    "value of contaminant":2.92,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"SITE B",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":2.23,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":2.49,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":2.68,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":3.31,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":3.44,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":2.92,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":1.852,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Co",
+    "DPR intervention value":55.2,
+    "value of contaminant":1.92,
+    "target value":20.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"Benzene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.01,
+    "value of contaminant":3.05,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"Toluene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":1.3,
+    "value of contaminant":null,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"O-xylene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.25,
+    "value of contaminant":1.28,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"M-xylene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.25,
+    "value of contaminant":1.88,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"P-xylene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.25,
+    "value of contaminant":1.4,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":"Ethylbenzene",
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":0.5,
+    "value of contaminant":1.94,
+    "target value":0.05
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Obinduka et al.2025",
+    "site":"A",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Hg",
+    "DPR intervention value":7.25,
+    "value of contaminant":0.0052,
+    "target value":0.3
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.39,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":40.6,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":61.63,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":61.42,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":10.83,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":98.17,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"B",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Hg",
+    "DPR intervention value":7.25,
+    "value of contaminant":1.73,
+    "target value":0.3
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.04,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":53.2,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":80.58,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":61.4,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":23.36,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":57.2,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"C",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Hg",
+    "DPR intervention value":7.25,
+    "value of contaminant":2.77,
+    "target value":0.3
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":7.5,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":6.78,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":18.57,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":20.93,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":32.07,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":10.53,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"D",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Hg",
+    "DPR intervention value":7.25,
+    "value of contaminant":1.96,
+    "target value":0.3
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":5.36,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":19.16,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":101.56,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":24.1,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":17.92,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":5.97,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"E",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Hg",
+    "DPR intervention value":7.25,
+    "value of contaminant":1.42,
+    "target value":0.3
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":2.98,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":42.54,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":88.38,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":43.2,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":15.3,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":10.8,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Memba et al. 2024",
+    "site":"lower tide",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"sediment",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"ABO",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.001,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":1.55,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":6.23,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":32.12,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.15,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":1.94,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"KUL",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.001,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":2.42,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":6.92,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":4.05,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.22,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":2.1,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"Crab",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"ABO",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":8.3,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":5.43,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":11.68,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":25.69,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":1.25,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.21,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"KUL",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":38.28,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":6.45,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":12.66,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":27.95,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":1.71,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.28,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"WATER",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"ABO",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.001,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.001,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.226,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.001,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.001,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.017,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"KUL",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.001,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.001,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.022,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.001,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.014,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.001,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"High tide",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"ABO",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.001,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.73,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":5.37,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":1.54,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":1.32,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":1.53,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"KUL",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.001,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":2.98,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":13.3,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":3.99,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.001,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":2.45,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"CRAB",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"ABO",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":16.55,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":6.26,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":13.98,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":26.23,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":2,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.001,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"WATER",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"ABO",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.001,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.001,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.005,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.001,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.001,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.001,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"KUL",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.001,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.001,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.016,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.001,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.001,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.001,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Agbanelo et al2024",
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.16,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cr",
+    "DPR intervention value":191.9,
+    "value of contaminant":0.62,
+    "target value":100.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":2.16,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Hg",
+    "DPR intervention value":7.25,
+    "value of contaminant":0.57,
+    "target value":0.3
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"As",
+    "DPR intervention value":28.71,
+    "value of contaminant":0.32,
+    "target value":29.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":0.28,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":"Omobepade et al.2020",
+    "site":"landing",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.002,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.013,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.016,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.0013,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":19.38,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"processing",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.003,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.0023,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.25,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.0026,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":56.57,
+    "target value":140.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":null,
+    "DPR intervention value":null,
+    "value of contaminant":null,
+    "target value":null
+  },
+  {
+    "study name":null,
+    "site":"marketing",
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cd",
+    "DPR intervention value":6.17,
+    "value of contaminant":0.003,
+    "target value":0.8
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Cu",
+    "DPR intervention value":80.28,
+    "value of contaminant":0.0024,
+    "target value":36.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Pb",
+    "DPR intervention value":313.95,
+    "value of contaminant":0.025,
+    "target value":85.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Ni",
+    "DPR intervention value":155.2,
+    "value of contaminant":0.0026,
+    "target value":35.0
+  },
+  {
+    "study name":null,
+    "site":null,
+    "contaminant of concern (organic)":null,
+    "contaminant of concern (inorganic)":"Zn",
+    "DPR intervention value":261.77,
+    "value of contaminant":56.64,
+    "target value":140.0
+  }
+]
